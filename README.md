@@ -10,7 +10,7 @@
 
 ---
 
-### 👨🏻‍💻💻 About Me
+### 👨🏻‍💻 About Me
 - 🎨 Passionate Frontend Developer crafting modern web experiences
 - ⚡ Skilled in **React.js, Next.js, Tailwind CSS, JavaScript, WordPress**
 - 📱 Focused on **responsive, modern & performant UIs**
