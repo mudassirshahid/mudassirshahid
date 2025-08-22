@@ -11,7 +11,7 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🎨 Passionate **Frontend Developer** with **2 years of experience**
+- 🎨 Passionate Frontend Developer crafting modern web experiences
 - ⚡ Skilled in **React.js, Next.js, Tailwind CSS, JavaScript, WordPress**
 - 📱 Focused on **responsive, modern & performant UIs**
 - 🌍 Open to **remote opportunities & freelance work**
@@ -71,7 +71,10 @@
 <p align="center">
   <a href="https://mudassirshahid.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%234F46E5.svg?&style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mudassir-shahid" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mudassirshahid84@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mudassirshahid84@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </p>
 
 ---
