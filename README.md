@@ -11,11 +11,11 @@
 ---
 
 ### 👨🏻‍💻 About Me
-- 🎨 Passionate Frontend Developer crafting modern web experiences
-- ⚡ Skilled in **React.js, Next.js, Tailwind CSS, JavaScript, WordPress**
-- 📱 Focused on **responsive, modern & performant UIs**
-- 🌍 Open to **remote opportunities & freelance work**
-- ✨ Portfolio: [mudassirshahid.netlify.app](https://mudassirshahid.netlify.app/)
+🚀 Helping businesses build modern, responsive & result-driven web solutions  
+⚡ Skilled in **React.js, Next.js, Tailwind CSS, JavaScript, WordPress**  
+📱 Focused on **responsive, high-performance & user-friendly UIs**  
+🌍 Open to **remote opportunities & freelance projects**  
+✨ Portfolio: [mudassirshahid.netlify.app](https://mudassirshahid.netlify.app/)  
 
 ---
 
